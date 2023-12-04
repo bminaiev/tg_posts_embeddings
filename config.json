@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Telegram Posts Embeddings",
+      "tensorShape": [
+        56858,
+        1536
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/bminaiev/tg_posts_embeddings/main/points.csv",
+      "metadataPath": "https://media.githubusercontent.com/media/bminaiev/tg_posts_embeddings/main/metadata.csv"
+    }
+  ]
+}
